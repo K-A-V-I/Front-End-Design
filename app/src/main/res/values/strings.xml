@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_to_continue">Sign in to Continue</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_the_email">Enter the Email</string>
+    <string name="enter_the_password">Enter the Password</string>
+    <string name="forget_password">Forget Password</string>
+     <string name="don_t_hv_an_acoount_create_new">Don\'t hv an acoount? CREATE NEW</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="your_mail_id">Your Mail_Id</string>
+    <string name="password">Password</string>
+    <string name="signup">signup</string>
+    <string name="mail_id">Mail id</string>
+</resources>
